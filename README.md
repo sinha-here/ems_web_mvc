@@ -1,1 +1,7 @@
-# ems_web_mvc
+Employe Managment System 
+
+Technology used :- 
+-Servlet
+-HIbernate
+-Spring MVC
+-PostgreSQl
